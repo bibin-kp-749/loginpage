@@ -1,0 +1,139 @@
+.body{
+    font-family: 'Lobster Two', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ysabeau Office', sans-serif;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+.main{
+    background-image: url("img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 700px;
+    background-position: center;
+    padding: auto;
+    padding-bottom: 120px;
+}
+.blank{
+    width: 80%;
+    height: 110px;
+}
+.main-div{
+    width: 80%;
+    min-height: 400px;
+    background-color: white;
+    margin: auto;
+    border-radius: 15px;
+}
+.sub-div1{
+    width: 50%;
+    min-height: 400px;
+    float: left;
+}
+.sub-div2{
+    width: 50%;
+    min-height: 400px;
+    float: right;
+}
+#img1{
+    width: 100%;
+    height: 400px;
+    border-radius: 15px 15px 0px 15px;
+}
+.p1{
+    font-size: xx-large;
+    font-weight: 400;
+    display: block;
+    margin: 8px 0px 5px 20px;
+}
+.p2{
+    display: block;
+    margin: 1px 1px 1px 20px;
+    font-size:medium;
+    font-weight: 480;
+}
+#email{
+    width: 330px;
+    height: 2.6rem;
+    padding:2px 0px 2px 10px;
+    display: block;
+    border-radius: 5px;
+    margin: 1px 1px 10px 30px;
+    border: gray 1.5px solid;
+}
+#email:hover{
+    background-color: rgb(228, 228, 228);
+    border: 1.5px gray solid;
+}
+#password:hover{
+    background-color: rgb(228, 228, 228);
+    border: 1.5px gray solid;
+}
+#email:active{
+    background-color: rgb(228, 228, 228);
+    border: 1.5px gray solid;
+}
+#password:active{
+    background-color: rgb(228, 228, 228);
+    border: 1.5px gray solid;
+}
+#password{
+    width: 330px;
+    height: 2.6rem;
+    padding:2px 0px 2px 10px;
+    display: block;
+    border-radius: 5px;
+    margin: 1px 1px 1px 30px;
+    border: gray 1.5px solid;
+}
+.label1{
+    font-weight: 700;
+    font-size: small;
+    margin: 35px 1px 1px 30px;
+}
+.label2{
+    font-weight: 700;
+    font-size: small;
+    margin: 1px 1px 1px 30px;
+}
+.button1{
+    width: 8rem;
+    height: 2.2rem;
+    background-color: rgb(0, 100, 214);
+    color: white;
+    padding: auto;
+    border-radius: 25px;
+    font-weight: 700;
+    box-shadow: none;
+    border: 1px gray solid;
+    margin: 22px 59px 1px 38px;
+}
+.button1:hover{
+    background-color:rgb(0, 80, 172) ;
+    box-shadow: rgb(84, 84, 84) 1px 1px 8px;
+}
+.button1:active{
+    background-color:rgb(0, 100, 214) ;
+}
+.button2{
+    width: 9rem;
+    height: 2.2rem;
+    background-color: white;
+    color: grey;
+    padding: auto;
+    border-radius: 25px;
+    border:hidden;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.button2:hover{
+    color:rgb(0, 80, 172) ;
+}
+.link{
+    margin-left: 245px;
+    font-size: small;
+    font-weight: 600;
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: none;
+}
