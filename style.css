@@ -106,11 +106,14 @@
     text-decoration: none;
 }
 .link{
-    margin-left: 185px;
+    margin-left: 125px;
     font-size: small;
     font-weight: 600;
     text-decoration: none;
 }
 .link:hover{
     text-decoration: none;
+}
+#showpassword{
+  margin-left: 1px;
 }
